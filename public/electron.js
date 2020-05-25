@@ -3,6 +3,7 @@ const app = electron.app;
 const BrowserWindow = electron.BrowserWindow;
 
 const path = require('path');
+// eslint-disable-next-line no-unused-vars
 const url = require('url');
 const isDev = require('electron-is-dev');
 
