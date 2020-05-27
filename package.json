@@ -1,7 +1,7 @@
 {
   "name": "reactron-browser",
   "version": "1.0.0",
-  "main": "public/electron.js",
+  "main": "src/electron.js",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
