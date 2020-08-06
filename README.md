@@ -5,30 +5,23 @@
 </h1>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/joaoalvess/electron-web-preview
-.svg">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/joaoalvess/electron-web-preview.svg">
 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/joaoalvess/electron-web-preview
-.svg">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/joaoalvess/electron-web-preview.svg">
 
-  <a href="https://www.codacy.com/app/joaoalvess/electron-web-preview
-?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=joaoalvess/electron-web-preview
-&amp;utm_campaign=Badge_Grade">
+  <a href="https://www.codacy.com/app/joaoalvess/electron-web-preview?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=joaoalvess/electron-web-preview&amp;utm_campaign=Badge_Grade">
     <img alt="Codacy grade" src="https://img.shields.io/codacy/grade/04db4b43120b4d05b9b39c9d2da97300.svg">
   </a>
 
-  <a href="https://github.com/joaoalvess/kitketphotos/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/joaoalvess/electron-web-preview
-.svg">
+  <a href="https://github.com/joaoalvess/electron-web-preview/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/joaoalvess/electron-web-preview.svg">
   </a>
 
   <a href="https://github.com/joaoalvess/kitketphotos/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/joaoalvess/electron-web-preview
-.svg">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/joaoalvess/electron-web-preview.svg">
   </a>
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/joaoalvess/electron-web-preview
-.svg">
+  <img alt="GitHub" src="https://img.shields.io/github/license/joaoalvess/electron-web-preview.svg">
 </p>
 
 <p align="center">
