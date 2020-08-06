@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="photo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="200" height="200" />
+    <img alt="photo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="250" height="200" />
     <br>
     Web Preview
 </h1>
@@ -31,8 +31,7 @@
 </p>
 
 <p align="center">
-  <img alt="App Demo" src="https://media.giphy.com/media/TgmzP66FR4qWWNCBEP/giphy.gif">
-  <img alt="App Demo" src="https://media.giphy.com/media/USVY45KJoDIYDaJavR/giphy.gif">
+  <img alt="App Demo" src="https://media.giphy.com/media/lSPLCEbEG5aUB7Lfjr/giphy.gif">
 </p>
 
 ## :rocket: Technologies
@@ -40,8 +39,7 @@
 This project was developed with the following technologies:
 
 -  [React](https://pt-br.reactjs.org)
--  [Firebase](https://firebase.google.com/?hl=pt-br)
--  [React-router-dom](https://reactrouter.com/web/guides/quick-start)
+-  [Electron](https://www.electronjs.org)
 -  [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
 
 ## :information_source: How To Use
@@ -58,8 +56,11 @@ $ cd electron-web-preview
 # Install dependencies
 $ yarn install
 
-# Run web page
+# Run app
 $ yarn start
+
+# create build app
+$ yarn build
 ```
 
 ## :memo: License
