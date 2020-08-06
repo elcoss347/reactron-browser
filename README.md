@@ -58,6 +58,9 @@ $ cd electron-web-preview
 # Install dependencies
 $ yarn install
 
+# Select Port Listen
+$ edit src/config.js
+
 # Run app
 $ yarn start
 
