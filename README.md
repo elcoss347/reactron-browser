@@ -4,7 +4,7 @@
     Web Preview
 </h1>
 <h4 align="center">
-    Listen port and returns a simple preview of it.
+    🌐 Electron browser, listen to project route and view Web Preview
 </h4>
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/joaoalvess/electron-web-preview.svg">
