@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="photo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg" width="200" height="200" />
+    <img alt="photo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="200" height="200" />
     <br>
     Web Preview
 </h1>
@@ -42,8 +42,6 @@ This project was developed with the following technologies:
 -  [React](https://pt-br.reactjs.org)
 -  [Firebase](https://firebase.google.com/?hl=pt-br)
 -  [React-router-dom](https://reactrouter.com/web/guides/quick-start)
--  [@material-ui/icons](https://material-ui.com/pt/components/material-icons/)
--  [React-copy-to-clipboard](https://www.npmjs.com/package/react-copy-to-clipboard)
 -  [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
 
 ## :information_source: How To Use
@@ -52,10 +50,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/joaoalvess/kitketphotos
+$ git clone https://github.com/joaoalvess/electron-web-preview
 
 # Go into the repository
-$ cd kitketphotos
+$ cd electron-web-preview
 
 # Install dependencies
 $ yarn install
